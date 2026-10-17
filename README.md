@@ -54,3 +54,28 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+# Fortune Teller App
+
+## Mobile Application Development – Practical Tutorial 02
+
+This is a simple Fortune Teller mobile application developed using React Native and Expo.
+
+### Features
+- Home screen with an image, title, and description.
+- A button to navigate to the second screen.
+- A second screen that displays a coding fortune message.
+- A Go Back button to return to the home screen.
+- Stack Navigation using Expo Router.
+
+### Technologies Used
+- React Native
+- Expo
+- TypeScript
+- Expo Router
+
+### Testing
+The application was tested in a web browser using Expo.
+
+### What I Learned
+In this practical, I learned how to create screens, add text, images, and buttons, and navigate between two screens using Stack Navigation.
